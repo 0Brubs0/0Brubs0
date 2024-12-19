@@ -1,4 +1,9 @@
 ### Hi Bruna's here 🪲
+##
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+</div>
+
 
 <!--
 **0Brubs0/0Brubs0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
